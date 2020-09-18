@@ -1,4 +1,4 @@
-# AA_assignment_1
+# banknote_naivebayes_svm
 
 Master's Degree in Big Data analysis and engeneering. Assignment 1 of the Machine Learning course.
 
